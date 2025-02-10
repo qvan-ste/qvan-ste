@@ -3,5 +3,5 @@
 ### About me
 
 - 💼 IT Admin at [Crisp](https://crisp.nl/)
-- 🧑🏽‍🎓 Student at Codam, a 42 school. Find my Codam related project in the Codam organizaion
+- 🧑🏽‍🎓 Student at [Codam](https://www.codam.nl/), a 42 school. Find my Codam related projects in the Codam organizaion
 - 🧑🏽‍💻 Started with C. Now mainly developing in CPP, C# and Typescript
